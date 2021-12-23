@@ -1,1 +1,0 @@
-sqlcmd -E -S DESKTOP-2Q5CQ7H -i SQLDATABASE_CSMA.sql
